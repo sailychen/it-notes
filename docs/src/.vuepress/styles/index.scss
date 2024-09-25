@@ -1,0 +1,72 @@
+// toc.scss, navbar.scss, sidebar.scss
+
+.toc-place-holder {
+  // 从原本距离导航栏 2rem 改为 5rem
+  top: calc(var(--navbar-height) + 5rem);
+}
+
+// #toc {
+//   // 增加 toc 与内容区的距离
+//   // left: calc(100% + 2rem);
+
+//   // 隐藏目录文字「此页内容」
+//   .toc-header {
+//     visibility: hidden;
+//   }
+// }
+
+/*爱的魔力转圈圈*/
+// .vp-project-home .vp-hero-image {
+//   width: 300px;
+//   height: 300px;
+//   border-radius: 50%;
+
+//   &:hover {
+//     transform: translate(-50%, -50%) rotate(666turn) !important;
+//     transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1) !important;
+//   }
+// }
+
+// :root {
+//   --vp-home-hero-image-background-image: linear-gradient(-45deg, var(--theme-color) 30%, var(--theme-color-next));
+//   --vp-home-hero-image-filter: blur(80px);
+// }
+
+// .vp-hero-info-wrapper {
+//   position: relative;
+//   z-index: 0;
+
+//   &::after {
+//     content: '';
+//     position: absolute;
+//     z-index: -1;
+//     top: 50%;
+//     left: 11%;
+//     border-radius: 50%;
+//     transform: translateY(-50%);
+//     width: 320px;
+//     height: 320px;
+//     opacity: 0.8;
+//     transition: opacity 1s ease;
+//     background-image: var(--vp-home-hero-image-background-image);
+//     filter: var(--vp-home-hero-image-filter);
+//   }
+// }
+
+// @media (max-width: 960px) {
+//   .vp-hero-info-wrapper::after {
+//     top: 23%;
+//     left: 35%;
+//     width: 280px;
+//     height: 280px;
+//   }
+// }
+
+// @media (max-width: 640px) {
+//   .vp-hero-info-wrapper::after {
+//     top: 24%;
+//     left: 24%;
+//     width: 256px;
+//     height: 256px;
+//   }
+// }

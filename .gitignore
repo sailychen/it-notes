@@ -1,7 +1,6 @@
 node_modules
 .temp
 .cache
-dist
 # Build and Release Folders
 bin-debug/
 bin-release/

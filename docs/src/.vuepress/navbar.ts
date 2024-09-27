@@ -235,5 +235,4 @@ export default navbar([
       },
     ],
   },
-  { text: '笔记', icon: 'note', link: 'https://github.com/dselegent/Learning-Notes' },
 ])

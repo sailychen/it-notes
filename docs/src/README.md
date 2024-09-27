@@ -60,11 +60,6 @@ highlights:
         details: 编程工具记录
         link: /tool/
 
-      - title: 笔记
-        icon: computer
-        details: Github 笔记源文件仓库
-        link: https://github.com/dselegent/Learning-Notes
-
 copyright: false
 footer: 版权所有 © 2019-至今 It.notes
 ---

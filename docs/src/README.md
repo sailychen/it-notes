@@ -60,6 +60,11 @@ highlights:
         details: 编程工具记录
         link: /tool/
 
+      - title: 微服务
+        icon: computer
+        details: Cloud Alibaba
+        link: /spring_cloud_alibaba/
+
 copyright: false
 footer: 版权所有 © 2019-至今 It.notes
 ---

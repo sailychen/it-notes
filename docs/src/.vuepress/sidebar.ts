@@ -284,4 +284,10 @@ export default sidebar({
       ],
     },
   ],
+  '/spring_cloud_alibaba/': [
+    {
+      text: '微服务',
+      children: 'structure',
+    },
+  ],
 })
